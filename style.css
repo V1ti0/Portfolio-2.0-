@@ -539,9 +539,24 @@ footer .footer-below {
 }
 
 .responsive-img-adjustment {
-    background-color: #000000;
     padding: 20px;
     z-index: 0;
+}
+
+.projet-1 {
+    background-color: darkred;
+}
+
+.projet-2 {
+    background-color: brown;
+}
+
+.projet-3 {
+    background-color: purple;
+}
+
+.projet-4 {
+    background-color: darkslategrey;
 }
 
 .img-responsive {
@@ -555,6 +570,8 @@ footer .footer-below {
 
 .contact {
     padding-bottom: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .text-padding {
